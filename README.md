@@ -1,4 +1,5 @@
 fitnesse-workshop
 =================
 
-Sources for FitNesse workshop
+To start FitNesse wiki, use:
+mvn -Pfitnesse test
