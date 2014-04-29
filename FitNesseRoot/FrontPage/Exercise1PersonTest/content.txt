@@ -1,0 +1,24 @@
+!define TEST_SYSTEM {slim}
+
+The following tables present simple tests for a class named Person.
+
+First test table uses the class straight, the second through a fixture (with system under test annotation), and the third also uses the fixture.
+
+Fix the failing tests either in wiki or in code.
+
+|person.Person|
+|first name|last name|get name?|
+|Test|Person|Test Person|
+|First|Last|Something|
+
+|fitnesse.PersonFixture|
+|first name|last name|get name?|
+|John|Doe|John Doe|
+
+|fitnesse.PersonFixture|
+|first name|last name|name length?|
+|James|Bond|10|
+|Bruce|Wayne|11|
+
+
+!pomFile pom.xml

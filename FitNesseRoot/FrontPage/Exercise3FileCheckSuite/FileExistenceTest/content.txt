@@ -1,0 +1,3 @@
+Create a fixture class to check whether files exist on the disk.
+
+Remember to set up the test correctly (e.g. TEST_SYSTEM).

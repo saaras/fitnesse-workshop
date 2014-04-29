@@ -1,0 +1,11 @@
+!define TEST_SYSTEM {slim}
+
+!-LargestNumberCalculator-! should return the largest integer of a group separated by commas.
+
+# insert table here
+
+!-AdditionCalculator-! should calculate the sum of integers separated by spaces.
+
+# insert table here
+
+!pomFile pom.xml
