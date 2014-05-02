@@ -1,6 +1,6 @@
 !define TEST_SYSTEM {slim}
 
-!-LargestNumberCalculator-! should return the largest integer of a group separated by commas.
+!-LargestIntegerCalculator-! should return the largest integer of a group separated by commas.
 
 # insert table here
 
